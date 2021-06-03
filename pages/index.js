@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
-        <script src="https://p-visitor-tracking.s3.ap-south-1.amazonaws.com/tracking.js" id="traek_script" data-api="StQxrpstpijz0xX1ijNNJIfm9Ht1Ppj8"></script>
+        <script src="https://p-visitor-tracking.s3.ap-south-1.amazonaws.com/tracking.js" id="traek_script" data-api="zbQ9fBnFCQc643z9Li2k90sM8ouxpN14"></script>
       </Head>
 
       <main>
